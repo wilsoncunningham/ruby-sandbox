@@ -24,3 +24,4 @@ require "awesome_print"
 x = gets.chomp
 
 pp x
+
