@@ -1,0 +1,7 @@
+# this file, always named "Gemfile" (no suffix), informs other users of dependencies for running these files
+
+
+source "https://rubygems.org"
+
+gem "activesupport"
+gem "pry-byebug"
